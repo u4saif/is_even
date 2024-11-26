@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Small NPM Package to Detect if the Number is Even Or Not",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "directories": {
     "test": "test"
   },
